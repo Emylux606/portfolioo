@@ -20,9 +20,12 @@ I build high-converting websites, luxury brand designs, and digital experiences.
 - 🧠 Portfolio Website (Luxury UI/UX)
 
 ---
+## 📸 Preview
+
+![Home](home.png)
 
 ## 📩 Contact Me
-- WhatsApp: [Your Link]
+- WhatsApp: []
 - Email: [Your Email]
 
 ---
