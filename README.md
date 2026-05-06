@@ -22,7 +22,7 @@ I build high-converting websites, luxury brand designs, and digital experiences.
 ---
 ## 📸 Preview
 
-![Home](home.png)
+![Home](assets/screenshots/ads.png)
 
 ## 📩 Contact Me
 - WhatsApp: https://wa.me/2348101323766?text=Hello%20I%20want%20to%20work%20with%20you
