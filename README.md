@@ -25,8 +25,8 @@ I build high-converting websites, luxury brand designs, and digital experiences.
 ![Home](home.png)
 
 ## 📩 Contact Me
-- WhatsApp: []
-- Email: [Your Email]
+- WhatsApp: https://wa.me/2348101323766?text=Hello%20I%20want%20to%20work%20with%20you
+- Email: mailto:emylux93@gmail.com
 
 ---
 
